@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-food-recommendation",
+  "private_key_id": "d639e106b8c932977072b379bc6ac27ea6894795",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnJGeg2IvnZD3i\niuKPg4TrCGp2tIGaDV/gfh7iGwRw4mlrDlgLybcoXt2BZf/g2irXBhgN9PHQouK8\nA75gbo2HU66bk1ePKSWo1xZCGCc5fvMuBycSt/4biXG+j2FJ4qJ6wPs25hgk/+/f\nr2aUk1p6cGds/b111mDL8dvq4refpvRr1nRmijArXq0pKdMUjW1ElhQfnacaXX1u\nt47OcbIAsFu+KKgCOEz2uPa82SlVp1xoOYQaufPteamqrslj+0r2QoG3AVmzpLi/\nrqRwCQoggRLXx25eBR4GjV48b5idZlPclEFxS7U8CEru4Wui4K+pgeu2lM7P90oN\nDRskN0e1AgMBAAECggEABADtZzRuBtESDGr66f4iq8XsAEOVoSeLMY5D1h2t5GMA\nAcZPr0SZ2bfgAsP7NkXI5eqpnoKiB4yHStf6HPGOUVIHVNxZf2k4aOFyETY75kws\nrgsSJrLNPZf0EgukLx1kep/vGeMMFq13b6USG3f7da2wmd3qxmJSt5U9CSonb4W0\nhfWKSbv4Okd9w6aRVZ4iRJmVtJysGdgZ1oZqGZQKKgexhcZQVilX224CYSmfs5/k\ndyYigybUivWGtZEPAqs7vCz2xJrivjbSKmr+qGkQ0jzwa0drwNwq+8Yi366Q9RGK\nUsV8eum3L0znS8UfPnX6QwVyLWYV3MKo1/0ufTnRZwKBgQDVcSOOIUUn5msIS5be\nHD3kpzH6yl1zUiHbPDXRfdEtUAuTAUSjhS+QFNpd1eKaIIf/EU7Bxz+2dN86jL0K\n0SxjcdUUWvaur56HISxe7LO6K2qlpRq/0RmPlqsXTLxmqhBPkFOrB0sKr08uLx4Y\ncniCT+tT8lzukzLpjboldYS7uwKBgQDId/T8Z2tAmSTirMK2iVfzXQcYuuuq7sRl\ndWhjYWakQsEtfvnn33KR+fHfBgBI09VJcAqWMeHzeDYkk6P48bt1tL8jA3CdTRkv\nNzO9HdZSKeiTs80n1QoFw0bsplp1tpdRklLra2lDPUOg5Iy4SCcMAFpAANbUxAiw\nMIAiiwP7TwKBgQCvq12bFhDoBQHkoun5xn6+WUmOYs3FIz0QRp7427e0tqPACxQm\nDXEXAcKz5lyJg+rKaMFMRaRPlCNB+iGA7KW+9yprhW5wWcR87TWqruBBgohU6u14\nIC4MevI3zAVn7eJcyanDIs6FbcIafdckQdqjTgmeXuRTyzzk8qvZNr7XDwKBgBJE\nfBqUAf389pOBUqz3jwAqNf9W6SrGXzcvn7eOpJ/LRXcz3un2PqZ2tEeycEwyoXjz\nsMNHAGQDTEvA+Gwy+vYa5l/2bEipQeY/jYNqOKF8GCl9dPBwRV2JEel2rz+Sx+8y\n+kNholHyPztmGDyitowtbAvxB6KTyobjpImBSXeZAoGBAI09S3H6dR9kmuQ0+4rH\nunAhZZaD2CVdBiT5Vss0EtYuIDj7hE8G3f2KuC9Pue5gsN/8GNcSZAU+JmjoafUF\nLDAEn37ncoHlsvrtEyGUkk+N/QPz9t/lLhIkw0AUcpZ8mkh+xp7b3oUJjt8NEX9N\nPwX8RmJu457IQpxtaHAC5BRJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@capstone-food-recommendation.iam.gserviceaccount.com",
+  "client_id": "117224853210131959916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40capstone-food-recommendation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
